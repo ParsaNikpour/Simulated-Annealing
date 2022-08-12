@@ -1,5 +1,5 @@
 # Simulated-Annealing
-Solving the Quadratic Assignment Problem with Simulated Annealing
+Solving the Quadratic Assignment Problem with Simulated Annealing.
 And here's the source for this code:
 
 DOI:
